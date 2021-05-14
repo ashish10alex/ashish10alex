@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashish Alex
-- 👀 I’m interested in Machine learning, automation, Data engineering
+- 👀 I’m interested in Machine learning, Data engineering, Automation
 - 💻 I have recetly started working with Nvidia-Jetson Nano
 
 

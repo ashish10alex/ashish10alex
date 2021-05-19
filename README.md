@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ashish Alex
 - 👀 I’m interested in Machine learning, Data engineering, Automation
-- 💻 I have recetly started working with Nvidia-Jetson Nano
+- 💻 I have recetly started learning Web Development
+- I have also worked with devices such as Nvidia-Jetson Nano, Raspberry p
 
 
 <!---

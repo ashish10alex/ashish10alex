@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ashish Alex 
-- 👀 I’m interested in Machine learning, Data engineering, Automation
-- 💻 I also have experience in Web Development 
+- :wrench: I have experience in Machine learning, Data engineering, Automation
+- :earth_americas: I also have experience in Web Development 
+- 💻 Development environment - Vim, Tmux
 - I have also worked with devices such as Nvidia-Jetson Nano, Raspberry pi
-- Development environment - Vim, Tmux
 
 
 <!---

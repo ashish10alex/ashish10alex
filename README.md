@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Ashish Alex
+- 👋 Hi, I’m Ashish Alex 
 - 👀 I’m interested in Machine learning, Data engineering, Automation
 - 💻 I also have experience in Web Development 
 - I have also worked with devices such as Nvidia-Jetson Nano, Raspberry pi
+- Development environment - Vim, Tmux
 
 
 <!---

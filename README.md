@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Alex 
-- :wrench: I am a Data engineer by profession. But have expeience with Data science, Machine learning & Automation
-- :earth_americas: Also into Web Development via personal projects
+- :wrench: Data engineer by profession. But have expeience with Data science, Machine learning & Automation
+- :earth_americas: Into Web Development via personal projects
 - 💻 Development environment - Neovim, Tmux
 - I have also worked with devices such as Nvidia-Jetson Nano, Raspberry pi
 

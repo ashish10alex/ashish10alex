@@ -4,5 +4,5 @@
 - 💻 Development environment - Neovim, Tmux
 - I have also worked with devices such as Nvidia-Jetson Nano, Raspberry pi
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish10alex&hide=php)](https://github.com/ashish10alex)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish10alex&count_private=true&theme=graywhite&layout=compact&langs_count=8)
 

@@ -2,7 +2,7 @@
 <a href="https://twitter.com/AshishAlex10"><img src="https://img.shields.io/twitter/follow/AshishAlex10?label=Twitter&style=social" alt="Twitter"></a>
 
 - Hi, I’m Ashish Alex 
-- Data Engineer by trade
+- Data Engineer 
 - Experience with Web Development via personal projects ( [Dataform tools VS Code extension](https://marketplace.visualstudio.com/items?itemName=ashishalex.dataform-lsp-vscode) ) & professional endeavours
 - Development environment - Neovim, Tmux ( [My dotfiles](https://github.com/ashish10alex/system-setup) ) 
 - I have also worked with devices such as Nvidia-Jetson Nano, Raspberry pi

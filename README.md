@@ -3,7 +3,7 @@
 
 - Hi, I’m Ashish Alex 
 - Data Engineer 
-- Experience with Web Development via personal projects ( [Dataform tools VS Code extension](https://marketplace.visualstudio.com/items?itemName=ashishalex.dataform-lsp-vscode) ) & professional endeavours
+- Experience with Web Development via personal projects ( [Tools for Dataform & dbt VS Code extension](https://marketplace.visualstudio.com/items?itemName=ashishalex.dataform-lsp-vscode) ) & professional endeavours
 - Development environment - Neovim, Tmux ( [My dotfiles](https://github.com/ashish10alex/system-setup) ) 
 - I have also worked with devices such as Nvidia-Jetson Nano, Raspberry pi
 
